@@ -20,7 +20,7 @@
 
 
 
- :telescope: Software Engineer and contributing to frontend and backend for building web applications.
+ :telescope: Software Engineer contributing to frontend and backend for building web applications.
 
 
 <div>
