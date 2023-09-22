@@ -13,16 +13,15 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 
+## Welcome To My GitHub ❤️
+
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New York ! .
 </div>
 
-## Welcome To My Page ❤️
-
-- :telescope: Software Engineer and contributing to frontend and backend for building web applications.
 
 
+ :telescope: Software Engineer and contributing to frontend and backend for building web applications.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ilias-papadopoulos-915493280/)
 
 <div>
  
