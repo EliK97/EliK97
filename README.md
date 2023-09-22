@@ -22,6 +22,10 @@
 
  :telescope: Software Engineer contributing to frontend and backend for building web applications.
 
+ Committed to leveraging my strong customer-centric approach to develop software solutions that not only meet users needs but also leave a positive impact on their lives. I believe that technology should not only serve people but also bring teams together, fostering collaboration and innovation.
+
+My journey from sales to software engineering has given me a profound appreciation for problem-solving and understanding end-users' perspectives. By applying my interpersonal skills and empathy to the development process, I aim to create software that not only meets technical requirements but also resonates with the people who use it.
+
 
 <div>
  
